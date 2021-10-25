@@ -1,2 +1,2 @@
 # kelas-hci
-Keperluan kuliah
+Percobaan
